@@ -1,0 +1,40 @@
+body {
+  background-image: url("../images/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat; }
+
+nav {
+  display: flex;
+  justify-content: center; }
+  nav h1 {
+    color: #ff7526; }
+  nav ul {
+    display: flex; }
+    nav ul li {
+      list-style: none; }
+      nav ul li a {
+        text-decoration: none;
+        color: #535353;
+        padding: 10px; }
+
+.canter i {
+  border: 20px solid #fff;
+  background-color: #fff;
+  border-radius: 200px;
+  color: #ff7526; }
+
+footer {
+  float: right;
+  background: #fcfbff; }
+  footer ul li {
+    list-style: none; }
+    footer ul li a {
+      text-decoration: none; }
+    footer ul li h5 {
+      color: #919192;
+      padding: 5px; }
+    footer ul li p {
+      color: black;
+      padding: 10px; }
+
+/*# sourceMappingURL=style.css.map */
